@@ -2,9 +2,26 @@
   "information": {
     "name": "Jónas Grétar Jónasson",
     "image": "profile.jpg",
-    "about": "With over five years of experience developing hardware and software in the cycling industry, I can deliver end-to-end solutions for a wide range of problems."
+    "about": "With over five years of experience developing hardware and software in the cycling industry, I can deliver end-to-end solutions to a wide range of problems."
   },
   "sections": [
+    {
+      "title": "Key competencies",
+      "entries": [
+        {
+          "body": "<li>Avid learner and problem solver</li>"
+        },
+        {
+          "body": "<li>Fullstack application development and deployment</li>"
+        },
+        {
+          "body": "<li>Algorithm development and modeling</li>"
+        },
+        {
+          "body": "<li>Embedded system firmware development, specification and design of measurement electronics</li>"
+        }
+      ]
+    },
     {
       "title": "Work experience",
       "entries": [
@@ -28,8 +45,6 @@
           "start": "2016",
           "end": "2016",
           "body": "Drew metal structures for hydropower plants. Implemented 3D CAD workflows for technical drawings. Reviewed subcontractor calculations for machinery."
-        },
-        {
         }
       ]
     },
@@ -53,9 +68,44 @@
       ]
     },
     {
+      "title": "Projects",
       "entries": [
         {
-          "body": "This is still a work in progress!"
+          "title": "Performance simulation platform for a world tour cycling team",
+          "body": "In collaboration with a World Tour cycling team, I developed a performance simulation platform for optimizing race pacing strategies. The initial version was a monolith VM running a Flask app combined with a SQL database. For its second release it was rebuilt using a range of Google Cloud Platform (GCP) cloud native products (Firestore / Cloud Run / PubSub / Buckets) with a Vue.js web app as a frontend. The application was deployed using Gitlab CI/CD."
+        },
+        {
+          "title": "Wind tunnel data-acquisition & control system with analysis platform",
+          "body": "We built a data-acquisition & control system for our wind tunnels. It was deployed partially on-premise and partially in the cloud. Locally the system used an MQTT-based IoT message bus to gather data and control the wind tunnel which comprised of multiple Dockers applications controlling pieces of hardware, deployed using  deployed using Ansible. The local data was then transferred to the cloud (Google Cloud Platform - GCP), where we developed a full-stack web application (using a similar technologies as the performance simulation platform mentioned above) for data analysis and reporting."
+        },
+        {
+          "title": "An on-bike aerodynamic drag measurement device.",
+          "body": "For my internship at Swiss Side I designed an Arduino-based data logger for wind speed and angle measurements. After joining full-time, I was the sole person responsible for the project’s development. I upgraded the device to a custom PCB with an NRF52 microcontroller, incorporating BLE, ANT+ radios, GNSS positioning, and other sensors with a custom firmware. Later a second engineer joined the team and we further developed the firmware, data processing and a web-based post-processing platform. With an external partner we aimed to bring the device to market, but the project stopped after reaching the MVP stage."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "entries": [
+        {
+          "title": "Languages",
+          "body": "Icelandic <i>native</i>, English <i>fluent</i> and Swiss German <i>spoken conversational</i></li></ul>"
+        },
+        {
+          "title": "Programming languages",
+          "body": "Python, C, Java, JavaScript (+HTML/CSS)"
+        },
+        {
+          "title": "Operating systems",
+          "body": "MacOs, Linux, Windows"
+        },
+        {
+          "title": "Software technologies",
+          "body": "Git, Ansible, Docker, Vue.js, Zephyr RTOS, Numpy, Pandas, Flask, Google Cloud Platform (GCP)"
+        },
+        {
+          "title": "Engineering tools",
+          "body": "Visual Studio Code, KiCad, Segger Embedded Studio (SES), CAD experience in Siemens NX, Autodesk Inventor, FreeCad"
         }
       ]
     }

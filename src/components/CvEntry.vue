@@ -34,19 +34,24 @@ export default {
     flex-direction: row;
 
     padding: 0.5rem;
-    padding-bottom: 1rem;
   }
 
   .head {
     width: 30%;
     max-width: 400px;
 
-    padding: 0.5rem;
+    padding: 0;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
   }
 
   .body {
     text-align: left;
     width: 70%;
+  }
+
+  .body * {
+    text-align: left;
   }
 
   @media (max-width: 800px) {

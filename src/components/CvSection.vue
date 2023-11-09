@@ -19,6 +19,11 @@ export default {
 
 <style scoped>
   .cv-section {
-    margin-bottom: 2rem;
+    margin-bottom: 0.5rem;
+  }
+
+  h1 {
+    margin: 0;
+    margin-bottom: 0.5rem;
   }
 </style>
