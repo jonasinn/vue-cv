@@ -60,6 +60,10 @@ export default {
       max-width: fit-content;
       margin-bottom: 0.5rem;
     }
+
+    .body {
+      width: 100%;
+    }
   }
 
 </style>

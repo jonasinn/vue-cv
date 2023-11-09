@@ -1,4 +1,9 @@
-# vue-cv
+# Vue CV
+## Jónas Grétar Jónasson
+
+Created as an exercise for myself using GitHub coming from GitLab.
+
+### Technology
 
 Uses github actions to deploy a Vue app to github pages
 

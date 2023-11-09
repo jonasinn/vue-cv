@@ -13,7 +13,7 @@
           "subtitle": "Swiss Side Technologies AG, Thalwil, Switzerland.",
           "start": "2018",
           "end": "2023",
-          "body": "Developed, deployed and maintained a performance simulation platform for a world tour cycling team.<br>Part of a team which developed a data acquisition system for wind tunnels, leveraging on-site and cloud infrastructure with an online report generation platform.<br>Developed algorithms for performance simulation and data post-processing.<br>Designed wind tunnel and on-road measurement equipment for the cycling industry."
+          "body": "Developed, deployed and maintained a performance simulation platform for a world tour cycling team. Was a part of a two person team which developed a data acquisition system for wind tunnels, leveraging on-site and cloud infrastructure with an online report generation platform. Developed algorithms for performance simulation and data post-processing. Designed wind tunnel and on-road measurement equipment for the cycling industry."
         },
         {
           "title": "Support Engineer & Intern",
@@ -41,7 +41,7 @@
           "subtitle": "ETH Zürich, Switzerland",
           "start": "2016",
           "end": "2018",
-          "body": "<i>Laboratory of Composite Materials and Adaptive Structures</i><br>Specializing in algorithms for structural optimization. Master thesis: Design and Analysis of an AM-CFRP Exoskeleton Hip Component. A design study where a novel computational framework for optimization and simulation of patched laminates was developed."
+          "body": "<i>Laboratory of Composite Materials and Adaptive Structures</i><br>Specializing in algorithms for structural optimization. Master thesis was a design study where a novel computational framework for optimization and simulation of patched laminates was developed. This was later adapted and <a href=\"https://doi.org/10.1007/s00158-019-02311-w\">published</a>.<br><br><i>Overall average grade: 5.52 / 6</i>"
         },
         {
           "title": "Mechanical Engineering BSc",
@@ -53,8 +53,10 @@
       ]
     },
     {
-      "title": "This is still a work in progress!",
       "entries": [
+        {
+          "body": "This is still a work in progress!"
+        }
       ]
     }
   ]
