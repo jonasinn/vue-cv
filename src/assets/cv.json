@@ -1,0 +1,34 @@
+{
+  "information": {
+    "name": "Jónas Grétar Jónasson",
+    "image": "/profile.jpg"
+  },
+  "sections": [
+    {
+      "title": "Work experience",
+      "entries": [
+        {
+          "title": "Big corp. inc.",
+          "body": "I did the important work"
+        },
+        {
+          "title": "Small business. ltd..",
+          "body": "I did the important work"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "entries": [
+        {
+          "title": "Prestigious school",
+          "body": "I learnt the things"
+        },
+        {
+          "title": "Less prestigious school",
+          "body": "I learnt the things"
+        }
+      ]
+    }
+  ]
+}
