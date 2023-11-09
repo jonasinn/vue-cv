@@ -23,22 +23,11 @@ export default {
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+* {
+  font-family: Georgia, 'Times New Roman', Times, serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  box-sizing: border-box;
 }
-
-.image {
-  border-radius: 50%;
-  height: 200px;
-  width: 200px;
-  object-fit: cover;
-  max-width: 100%;
-  max-height: 100%;
-}
-
 </style>
