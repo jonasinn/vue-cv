@@ -30,7 +30,7 @@
           "subtitle": "Swiss Side Technologies AG, Thalwil, Switzerland.",
           "start": "2018",
           "end": "2023",
-          "body": "Developed, deployed and maintained a performance simulation platform for a world tour cycling team. Was a part of a two person team which developed a data acquisition system for wind tunnels, leveraging on-site and cloud infrastructure with an online report generation platform. Developed algorithms for performance simulation and data post-processing. Designed wind tunnel and on-road measurement equipment for the cycling industry."
+          "body": "Drove R&D projects from ideas to reality. Developed, deployed and maintained a performance simulation platform for a world tour cycling team. Was a part of a two person team which developed a data acquisition system for wind tunnels, leveraging on-site and cloud infrastructure with an online report generation platform. Developed algorithms for performance simulation and data post-processing. Designed wind tunnel and on-road measurement equipment for the cycling industry."
         },
         {
           "title": "Support Engineer & Intern",
@@ -45,6 +45,13 @@
           "start": "2016",
           "end": "2016",
           "body": "Drew metal structures for hydropower plants. Implemented 3D CAD workflows for technical drawings. Reviewed subcontractor calculations for machinery."
+        },
+        {
+          "title": "Teaching Assistant, Numerical Analysis",
+          "subtitle": "University of Iceland, Reykjavík, Iceland",
+          "start": "2016",
+          "end": "2016",
+          "body": "Part time. Reviewed student assignments and projects. Taught exercise hours."
         }
       ]
     },
@@ -56,7 +63,7 @@
           "subtitle": "ETH Zürich, Switzerland",
           "start": "2016",
           "end": "2018",
-          "body": "<i>Laboratory of Composite Materials and Adaptive Structures</i><br>Specializing in algorithms for structural optimization. Master thesis was a design study where a novel computational framework for optimization and simulation of patched laminates was developed. This was later adapted and <a href=\"https://doi.org/10.1007/s00158-019-02311-w\">published</a>.<br><br><i>Overall average grade: 5.52 / 6</i>"
+          "body": "<i>Laboratory of Composite Materials and Adaptive Structures</i><br>Specializing in anisotropic materials and structural optimization. Master thesis was a design study where a novel computational framework for optimization and simulation of patched laminates was developed. This was later adapted and <a href=\"https://doi.org/10.1007/s00158-019-02311-w\">published</a>.<br><br><i>Overall average grade: 5.52 / 6</i>"
         },
         {
           "title": "Mechanical Engineering BSc",
@@ -76,7 +83,7 @@
         },
         {
           "title": "Wind tunnel data-acquisition & control system with analysis platform",
-          "body": "We built a data-acquisition & control system for our wind tunnels. It was deployed partially on-premise and partially in the cloud. Locally the system used an MQTT-based IoT message bus to gather data and control the wind tunnel which comprised of multiple Dockers applications controlling pieces of hardware, deployed using  deployed using Ansible. The local data was then transferred to the cloud (Google Cloud Platform - GCP), where we developed a full-stack web application (using a similar technologies as the performance simulation platform mentioned above) for data analysis and reporting."
+          "body": "We built a data-acquisition & control system for our wind tunnels. It was deployed partially on-premise and partially in the cloud. Locally the system used an MQTT-based IoT message bus to gather data and control the wind tunnel which comprised of multiple Dockers applications controlling pieces of hardware, deployed using Ansible. The local data was then transferred to the cloud (GCP), where we developed a full-stack web application (using a similar technologies as the performance simulation platform mentioned above) for data analysis and reporting."
         },
         {
           "title": "An on-bike aerodynamic drag measurement device.",
@@ -93,7 +100,7 @@
         },
         {
           "title": "Programming languages",
-          "body": "Python, C, Java, JavaScript (+HTML/CSS)"
+          "body": "Python, C, JavaScript (+HTML/CSS), Java"
         },
         {
           "title": "Operating systems",
