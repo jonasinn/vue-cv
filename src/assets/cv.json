@@ -26,10 +26,17 @@
       "title": "Work experience",
       "entries": [
         {
+          "title": "Software engineer",
+          "subtitle": "Taskbase AG, Zürich, Switzerland.",
+          "start": "03.2024",
+          "end": "2024",
+          "body": ""
+        },
+        {
           "title": "R&D systems engineer",
           "subtitle": "Swiss Side Technologies AG, Thalwil, Switzerland.",
           "start": "11.2023",
-          "end": "2024",
+          "end": "03.2024",
           "body": "Part time on a project basis."
         },
         {
